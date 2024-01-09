@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/21z/discord-canvas#readme",
   "dependencies": {
-    "canvas": "github:Automattic/node-canvas",
+    "canvas": "github:Automattic/node-canvas.git#a5b379bbc241d2731c2a4f8d4410f71f123dd1ee",
     "fortnite-9812": "^1.0.4",
     "fortnite": "^4.3.2",
     "moment": "^2.29.4"
